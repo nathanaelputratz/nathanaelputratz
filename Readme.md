@@ -13,5 +13,3 @@ I’m diving deep into Image Processing, Computer Vision, and AI Engineering, wi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NathanaelPutra&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
